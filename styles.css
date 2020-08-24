@@ -1,0 +1,20 @@
+.text-center{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.navbar-brand{
+	font-weight: bold;
+}
+
+#chicken, #beef, #sushi{
+	background-color: #e4e3e3;
+	border-radius: 8px;
+	padding: 15px;
+	font-family: 'Roboto';
+}
+
+.navbar-collapse{
+	background-color: #e4e3e3;
+}
